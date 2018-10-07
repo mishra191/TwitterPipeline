@@ -1,0 +1,4 @@
+com\stream\spark\ElasticSearchConsumer.class
+com\stream\kafka\TwitterProducer.class
+com\stream\kafka\TwitterProducer$1.class
+com\stream\spark\ElasticSearchConsumer$1.class
